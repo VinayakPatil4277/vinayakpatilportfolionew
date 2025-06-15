@@ -1,0 +1,118 @@
+.contact-form {
+  padding: 0 3rem 0 3rem;
+  display: flex;
+  height: 80vh;
+  margin-top: 4rem;
+  padding-top: 3rem;
+}
+
+.w-left {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+}
+
+.c-right {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  flex: 1;
+}
+
+.c-right > form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.09);
+  padding: 2.3rem 2.2rem 2.1rem 2.2rem;
+  border-radius: 15px;
+  box-shadow: 0 2px 18px rgba(40,40,40,0.07);
+  min-width: 310px;
+}
+
+.c-right .user {
+  width: 20rem;
+  height: 2.3rem;
+  padding: 0.35em 0.85em;
+  outline: none;
+  border: 2px solid var(--orange);
+  border-radius: 8px;
+  font-size: 16px;
+  background: #fff;
+  transition: border 0.17s;
+}
+
+.c-right .user:focus {
+  border-color: var(--purple);
+}
+
+textarea.user {
+  height: 4.5rem !important;
+  resize: vertical;
+}
+
+input.button {
+  width: 8rem;
+  height: 2.2rem;
+  background: var(--orange);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.17s;
+}
+
+input.button[disabled],
+input.button[aria-disabled="true"] {
+  background: #bdbdbd !important;
+  cursor: not-allowed !important;
+  color: #fff;
+  opacity: 0.8;
+}
+
+.c-blur1 {
+  top: 1rem;
+  left: 8rem;
+  z-index: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+.contact-form span.error {
+  color: #d32f2f;
+  font-size: 1rem;
+  margin-top: 0.4rem;
+  display: block;
+  font-weight: 500;
+}
+
+.contact-form span.thankyou {
+  color: #2196f3;
+  font-size: 1.13rem;
+  margin-top: 0.6rem;
+  display: block;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 700px) {
+  .contact-form {
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    gap: 2.2rem;
+    padding: 1rem;
+  }
+  .c-right .user {
+    width: 15rem;
+    font-size: 15px;
+  }
+  .c-right > form {
+    min-width: unset;
+    padding: 1.3rem 0.6rem 1.3rem 0.6rem;
+    width: 100%;
+    box-shadow: 0 1px 7px rgba(40,40,40,0.08);
+  }
+}
