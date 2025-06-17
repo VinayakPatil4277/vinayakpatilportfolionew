@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/vinayak-portfolio-2025/static/css/main.e65711ff.css",
-    "main.js": "/vinayak-portfolio-2025/static/js/main.30f8db92.js",
-    "static/media/Vinayak_Java_Full_Stack_Resume.pdf": "/vinayak-portfolio-2025/static/media/Vinayak_Java_Full_Stack_Resume.837a723230dad41043df.pdf",
-    "static/media/pos.png": "/vinayak-portfolio-2025/static/media/pos.1bf82d05cb8094b06f18.png",
-    "static/media/website.png": "/vinayak-portfolio-2025/static/media/website.a79f259358a167e94557.png",
-    "static/media/enterprise.png": "/vinayak-portfolio-2025/static/media/enterprise.24e18c1e6128dbd27c7e.png",
-    "static/media/amit.jpg": "/vinayak-portfolio-2025/static/media/amit.7dd0de14050c1c2d4485.jpg",
-    "static/media/boy2.png": "/vinayak-portfolio-2025/static/media/boy2.bd686bd9accd9ea07827.png",
-    "static/media/glassesimoji.png": "/vinayak-portfolio-2025/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/akshay.png": "/vinayak-portfolio-2025/static/media/akshay.ae2bb471b05062f654d7.png",
-    "static/media/android1.png": "/vinayak-portfolio-2025/static/media/android1.ff74c990f395461b30a6.png",
-    "static/media/java1.png": "/vinayak-portfolio-2025/static/media/java1.6ee8068db5086b4dc735.png",
-    "static/media/mysql.png": "/vinayak-portfolio-2025/static/media/mysql.497f0a6717eeb27d62b7.png",
-    "static/media/humble.png": "/vinayak-portfolio-2025/static/media/humble.c8b32b53675e68978981.png",
-    "static/media/heartemoji.png": "/vinayak-portfolio-2025/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
-    "static/media/wave.png": "/vinayak-portfolio-2025/static/media/wave.fdfef4069ad90f610990.png",
-    "static/media/Vector2.png": "/vinayak-portfolio-2025/static/media/Vector2.28db5bfd58081dd1df1b.png",
-    "static/media/glasses.png": "/vinayak-portfolio-2025/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
-    "index.html": "/vinayak-portfolio-2025/index.html",
-    "main.e65711ff.css.map": "/vinayak-portfolio-2025/static/css/main.e65711ff.css.map",
-    "main.30f8db92.js.map": "/vinayak-portfolio-2025/static/js/main.30f8db92.js.map"
+    "main.css": "/vinayakpatilportfolionew/static/css/main.e65711ff.css",
+    "main.js": "/vinayakpatilportfolionew/static/js/main.596320ea.js",
+    "static/media/Vinayak_Java_Full_Stack_Resume.pdf": "/vinayakpatilportfolionew/static/media/Vinayak_Java_Full_Stack_Resume.837a723230dad41043df.pdf",
+    "static/media/pos.png": "/vinayakpatilportfolionew/static/media/pos.1bf82d05cb8094b06f18.png",
+    "static/media/website.png": "/vinayakpatilportfolionew/static/media/website.a79f259358a167e94557.png",
+    "static/media/enterprise.png": "/vinayakpatilportfolionew/static/media/enterprise.24e18c1e6128dbd27c7e.png",
+    "static/media/amit.jpg": "/vinayakpatilportfolionew/static/media/amit.7dd0de14050c1c2d4485.jpg",
+    "static/media/boy2.png": "/vinayakpatilportfolionew/static/media/boy2.bd686bd9accd9ea07827.png",
+    "static/media/glassesimoji.png": "/vinayakpatilportfolionew/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/akshay.png": "/vinayakpatilportfolionew/static/media/akshay.ae2bb471b05062f654d7.png",
+    "static/media/android1.png": "/vinayakpatilportfolionew/static/media/android1.ff74c990f395461b30a6.png",
+    "static/media/java1.png": "/vinayakpatilportfolionew/static/media/java1.6ee8068db5086b4dc735.png",
+    "static/media/mysql.png": "/vinayakpatilportfolionew/static/media/mysql.497f0a6717eeb27d62b7.png",
+    "static/media/humble.png": "/vinayakpatilportfolionew/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/vinayakpatilportfolionew/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/vinayakpatilportfolionew/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/Vector2.png": "/vinayakpatilportfolionew/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/vinayakpatilportfolionew/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/vinayakpatilportfolionew/index.html",
+    "main.e65711ff.css.map": "/vinayakpatilportfolionew/static/css/main.e65711ff.css.map",
+    "main.596320ea.js.map": "/vinayakpatilportfolionew/static/js/main.596320ea.js.map"
   },
   "entrypoints": [
     "static/css/main.e65711ff.css",
-    "static/js/main.30f8db92.js"
+    "static/js/main.596320ea.js"
   ]
 }
